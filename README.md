@@ -12,17 +12,17 @@ In terms of the backend, we have provided you three endpoints. Two of the three 
 
 The table below lists all the fields needed in your form. If an example is given, it's to help you understand how we expect this returne. If no example is given, we expect that you understand how this field should be returned.
 
-| form field id  | required format | expected value |
-| ------------- | ------------- |
-| productId  | number  | |
-| sizeSelected  | string  | |
-| fullname  | string  | |
-| email  | string  | |
-| competitor  | string  | yes or no |
-| competitor_url*  | string  | |
-| enquiry  | string  | |
+| Form Field ID| Required Format| Advice        |
+| ------------ | -------------- | ------------- |
+| productId    | number         |               |
+| sizeSelected | string         |               |
+| fullname     | string         |               |
+| email        | string         |               |
+| competitor   | string         | yes or no     |
+| competitorUrl| string         | optional      |
+| enquiry      | string         |               |
 
-*optional value
+Please make sure to test your submissions and look for any errors returned when building your web application.
 
 All data that is sent to us will remain in our database for 2 weeks. We will only use this data to confirm whether you have done the test or not. No personal information provided will be passed on or shared.
 
