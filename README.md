@@ -2,7 +2,7 @@
 
 This test is an opportunity to showcase your development skills as well as your attention to detail. You are welcome to develop this web application using any frontend and/or css framework of your choice. We develop our web applications using a Javascript framework called **NuxtJS** and a CSS framework called **Bulma**. Keep this in mind as you'll be using these Javascript and CSS frameworks in future if you are successful.
 
-This github repository provides all of the designs required to create the product enquiry web application. So please place close attention to the designs. We have provided screenshots of all the pages that are required along with examples and how errors should be displayed. There is a style guide for both light and dark themes. Both themes use two fonts from **Google Web Fonts** and icons from **FontAwesome 5**.
+This github repository provides all of the designs required to create the product enquiry web application. We have provided screenshots of all the pages that are required along with examples and how errors should be displayed. There is a style guide for both light and dark themes. Both themes use two fonts from **Google Web Fonts** and icons from **FontAwesome 5**.
 
 In terms of the backend, we have built and developed an API and provided you three endpoints. Two of the three endpoints will **GET** the list of products and the product information in **JSON format** you need to display in your web application. The third endpoint will **POST** your enquiry. You are required to build a web form using AJAX to post your enquiry to the submit endpoint. 
 
