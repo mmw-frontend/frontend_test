@@ -33,6 +33,6 @@ We've identified three levels to this test. If your more comfortable with just C
 
 Try to impress us!
 
-##Submission
+## Submission
 Once you're happy with your test, please commit all your work into your own github repostitory and add mmw-frontend as a contributor to your repo. There must be clear instructions on how to initialise your web application if you have not used NuxtJS. 
 
