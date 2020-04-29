@@ -9,10 +9,9 @@ This github repository provides all of the designs required to create the produc
 In terms of the backend, we have built and developed an API and provided you three endpoints. Two of the three endpoints will **GET** the list of products and the product information in **JSON format** you need to display in your web application. The third endpoint will **POST** your enquiry. You are required to build a web form using AJAX to post your enquiry to the submit endpoint. 
 
 The endpoint URLs are list below:
-
-https://mainlinemenswear-84fa3.uc.r.appspot.com/products
-https://mainlinemenswear-84fa3.uc.r.appspot.com/product/{productId}
-https://mainlinemenswear-84fa3.uc.r.appspot.com/submit
+- https://frontendtest.mainlinemenswear.co.uk/products
+- https:/frontendtest.mainlinemenswear.co.uk/product/{productId}
+- https://frontendtest.mainlinemenswear.co.uk/submit
 
 The table below lists all the fields needed in your form. If advice is given, it's to help you understand how we expect this returned in the form when you submit your enquiry. If no advice is given, it is because we expect that you understand how this field should be returned without needing any guidance.
 
