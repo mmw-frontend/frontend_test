@@ -28,7 +28,7 @@ Please make sure to test your submissions and look out for any errors returned f
 All the data that is sent to us will remain in our database for 2 weeks. We will only use this data to confirm whether you have done the test or not. No personal information provided will be passed on or shared.
 
 ## What we're looking for
-We're looking to see at what stage you're at in terms of your career in web development. There are bonus points for using NuxtJS, making your web application responsive, building your own CSS framework, attempting both themes and developing in ES6 Javascript. 
+We're looking to see at what stage you're at in terms of your career in web development. There are bonus points for using NuxtJS, making your web application responsive, building your own custom CSS framework that uses SASS or LESS, attempting both themes and developing in ES6 Javascript. 
 
 We want you to impress!
 
