@@ -2,7 +2,7 @@
 
 This test is an opportunity to showcase your development skills as well as your attention to detail. You are welcome to develop this web application using any frontend and/or css framework of your choice. We develop our web applications using a Javascript framework called **NuxtJS** and a CSS framework called **Bulma**. Keep this in mind as you'll be using these Javascript and CSS frameworks in future if you are successful.
 
-This github repository provides all of the designs required to create the product enquiry web application. We have provided screenshots of all the pages that are required along with examples and how errors should be displayed. There is a style guide for both light and dark themes. Both themes use two fonts from **Google Web Fonts** and icons from **FontAwesome 5**.
+This github repository provides all of the designs required to create the product enquiry web application. We have provided screenshots of all the pages that are required along with examples and how the errors should be displayed. There is a style guide for both light and dark themes. Both themes use two fonts from **Google Web Fonts** and icons from **FontAwesome 5**.
 
 In terms of the backend, we have built and developed an API and provided you three endpoints. Two of the three endpoints will **GET** the list of products and the product information in **JSON format** you need to display in your web application. The third endpoint will **POST** your enquiry. You are required to build a web form using AJAX to post your enquiry to the submit endpoint. 
 
@@ -28,7 +28,7 @@ Please make sure to test your submissions and look out for any errors returned f
 All the data that is sent to us will remain in our database for 2 weeks. We will only use this data to confirm whether you have done the test or not. No personal information provided will be passed on or shared.
 
 ## What we're looking for
-We're looking to see at what stage you're at in terms of your career in web development. There are bonus points for using NuxtJS, making your web application responsive, building your own custom CSS framework that uses SASS or LESS, attempting both themes and developing in ES6 Javascript. 
+We're looking to see at what stage you're at in terms of your career in web development. There are bonus points for using NuxtJS, making your web application responsive and performant, building your own custom CSS framework that uses SASS or LESS, attempting both themes and developing in ES6 Javascript. 
 
 We want you to impress!
 
