@@ -10,7 +10,7 @@ In terms of the backend, we have built and developed an API and provided you thr
 
 The endpoint URLs are list below:
 - https://frontendtest.mainlinemenswear.co.uk/products
-- https:/frontendtest.mainlinemenswear.co.uk/product/{productId}
+- https://frontendtest.mainlinemenswear.co.uk/product/{productId}
 - https://frontendtest.mainlinemenswear.co.uk/submit
 
 The table below lists all the fields needed in your form. If advice is given, it's to help you understand how we expect this returned in the form when you submit your enquiry. If no advice is given, it is because we expect that you understand how this field should be returned without needing any guidance.
