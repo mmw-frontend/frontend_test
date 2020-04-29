@@ -30,7 +30,9 @@ Please make sure to test your submissions and look out for any errors returned f
 All the data that is sent to us will remain in our database for 2 weeks. We will only use this data to confirm whether you have done the test or not. No personal information provided will be passed on or shared.
 
 ## What we're looking for
-We're looking to see at what stage you're at in terms of your career in web development. There are bonus points for using NuxtJS, building your own CSS framework, attempting both themes and developing in ES6 Javascript. We want you to impress us!
+We're looking to see at what stage you're at in terms of your career in web development. There are bonus points for using NuxtJS, building your own CSS framework, attempting both themes and developing in ES6 Javascript. 
+
+We want you to impress!
 
 ## Submission
 Once you're happy with your test, please commit all your work into your own github repostitory and add **mmw-frontend** as a contributor to your repo. There must be clear instructions on how to initialise your web application if you have not used NuxtJS.
