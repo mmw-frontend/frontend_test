@@ -26,7 +26,7 @@ Please make sure to test your submissions and look for any errors returned when 
 
 All data that is sent to us will remain in our database for 2 weeks. We will only use this data to confirm whether you have done the test or not. No personal information provided will be passed on or shared.
 
-## What were looking for
+## What we're looking for
 We're looking to see where you are currently in your development career and work out how technical you are. When attempting this test please do what you know and try not to challenge yourself too much. 
 
 We've identified three levels to this test. If your more comfortable with just CSS and HTML, then please don't worry about the form and just create the design in the choice of your framework. If you want more of a challenge, then please add Javascript and create a form that can submit successfully. If you want to go further beyond that, then impress us with using our choice of framework and completing the whole challenge, even perhaps going beyond?
