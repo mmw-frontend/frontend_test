@@ -2,7 +2,7 @@
 
 Hello and welcome to the Mainline Menswear Front End Technical Test.
 
-This test is an opportunity to showcase your development skills as well as your attention to detail. You are welcome to develop this web application using any frontend and/or css framework of your choice. Please note though, that we develop our web applications using a framework called **NuxtJS** and a CSS framework called **Bulma**. So please keep this in mind, as you'll be using this style of framework in future if you are given a front end role at Mainline Menswear.
+This test is an opportunity to showcase your development skills as well as your attention to detail. You are welcome to develop this web application using any frontend and/or css framework of your choice. Please note though, that we develop our web applications using a Javascript framework called **NuxtJS** and a CSS framework called **Bulma**. So please keep this in mind, as you'll be using this style of framework in future if you are given a front end role at Mainline Menswear.
 
 This github repository provides all of the designs required to create the product enquiry web application. So please place close attention to the designs. We have provided screenshots of all the pages that are required along with examples and how errors should be displayed. There is a style guide for both light and dark themes. Both themes use two fonts from **Google Web Fonts** and icons from **FontAwesome 5**.
 
