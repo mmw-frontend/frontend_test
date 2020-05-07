@@ -33,7 +33,7 @@ We're looking to see at what stage you're at in terms of your career in web deve
 We want you to impress!
 
 ## Submission
-Once you're happy with your test, please commit all your work into your own github repostitory and add **mmw-frontend** as a contributor to your repo. There must be clear instructions on how to initialise your web application if you have not used NuxtJS.
+Once you're happy with your test, please commit all your work into your own github repository and add **mmw-frontend** as a contributor to your repo. There must be clear instructions on how to initialise your web application if you have not used NuxtJS.
 
 Good luck and we look forward to seeing your product enquiry web application!
 
