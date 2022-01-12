@@ -6,7 +6,7 @@ This github repository provides all of the designs required to create the produc
 
 In terms of the backend, we have built and developed an API and provided you three endpoints. Two of the three endpoints will **GET** the list of products and the product information in **JSON format** you need to display in your web application. The third endpoint will **POST** your enquiry. You are required to build a **web form** using AJAX to post your enquiry to the submit endpoint. 
 
-The endpoint URLs are list below:
+The endpoint URLs are listed below:
 - https://frontendtest.mainlinemenswear.co.uk/products
 - https://frontendtest.mainlinemenswear.co.uk/product/{productId}
 - https://frontendtest.mainlinemenswear.co.uk/submit
@@ -33,7 +33,7 @@ We're looking to see at what stage you're at in terms of your career in web deve
 We want you to impress!
 
 ## Submission
-Once you're happy with your test, please commit all your work into your own github repository and add **mmw-frontend** as a contributor to your repo. There must be clear instructions on how to initialise your web application if you have not used NuxtJS.
+Once you're happy with your test, please commit all your work into your own github repository and add **mmw-frontend** as a contributor to your repo. There must be clear instructions on how to initialise your web application if you have not used NuxtJS. Please make sure to keep your repo private.
 
 Good luck and we look forward to seeing your product enquiry web application!
 
